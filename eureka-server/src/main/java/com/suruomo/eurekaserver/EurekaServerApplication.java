@@ -1,4 +1,4 @@
-package com.suruomo.server;
+package com.suruomo.eurekaserver;
 
 import cn.hutool.core.util.NetUtil;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
